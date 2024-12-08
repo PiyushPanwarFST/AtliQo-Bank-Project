@@ -29,7 +29,7 @@ Focused on thorough data exploration and deriving insights to inform the next st
 6. **Key Insight:**  
    - Discovered that the **18-25 age group** exhibited significantly lower credit card usage despite being the target demographic.
 
-![Phase 1 Completion](./phase1_completion.png)  
+![Phase 1 Completion](https://github.com/PiyushPanwarFST/AtliQo-Bank-Project/blob/main/Phase_B/chapter11_assets/analysis.png)
 
 ---
 
@@ -54,7 +54,7 @@ Utilized hypothesis testing to validate assumptions and plan the marketing campa
 6. **Key Outcome:**  
    - Confirmed the success of the targeted approach, driving effective marketing results.
 
-![Phase 2 Completion](./phase2_completion.png)
+![Phase 2 Completion](https://github.com/PiyushPanwarFST/AtliQo-Bank-Project/blob/main/Phase_B/chapter11_assets/Screenshot%202024-12-08%20at%2011.10.15%E2%80%AFPM.png)
 
 ---
 
@@ -66,4 +66,4 @@ The Atliq Bank credit card project is a testament to the power of data-driven de
 ### **How to Run This Project**
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PiyushPanwarFST/AtliQo-Bank-Project.git
